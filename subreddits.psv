@@ -1,0 +1,65 @@
+subreddit|category|country|type|description
+thenetherlands|core|NL|general|Main Dutch subreddit, English + Dutch mixed
+nederland|core|NL|general|Dutch-language general subreddit
+netherlands|core|NL|general|English-language Netherlands general
+dutch|core|NL|general|Dutch culture and language
+holland|core|NL|general|Informal Netherlands discussion
+amsterdam|cities|NL|city|Amsterdam
+rotterdam|cities|NL|city|Rotterdam
+denhaag|cities|NL|city|Den Haag / The Hague
+utrecht|cities|NL|city|Utrecht
+eindhoven|cities|NL|city|Eindhoven
+groningen|cities|NL|city|Groningen city
+tilburg|cities|NL|city|Tilburg
+breda|cities|NL|city|Breda
+nijmegen|cities|NL|city|Nijmegen
+haarlem|cities|NL|city|Haarlem
+arnhem|cities|NL|city|Arnhem
+maastricht|cities|NL|city|Maastricht
+leiden|cities|NL|city|Leiden
+dordrecht|cities|NL|city|Dordrecht
+almere|cities|NL|city|Almere
+apeldoorn|cities|NL|city|Apeldoorn
+zwolle|cities|NL|city|Zwolle
+enschede|cities|NL|city|Enschede
+leeuwarden|cities|NL|city|Leeuwarden
+delft|cities|NL|city|Delft
+deventer|cities|NL|city|Deventer
+noordholland|provinces|NL|province|Noord-Holland province
+zuidholland|provinces|NL|province|Zuid-Holland province
+gelderland|provinces|NL|province|Gelderland province
+noordbrabant|provinces|NL|province|Noord-Brabant province
+overijssel|provinces|NL|province|Overijssel province
+limburg|provinces|NL|province|Limburg NL (note: check for BE overlap)
+friesland|provinces|NL|province|Friesland / Fryslân
+drenthe|provinces|NL|province|Drenthe province
+zeeland|provinces|NL|province|Zeeland province
+flevoland|provinces|NL|province|Flevoland province
+belgium|core|BE|general|Main Belgian subreddit, English
+belgium_|core|BE|general|Dutch/French Belgian subreddit (r/belgium_)
+belgie|core|BE|general|Dutch-language Belgium
+brussels|cities|BE|city|Brussels / Brussel
+antwerpen|cities|BE|city|Antwerp / Antwerpen
+ghent|cities|BE|city|Ghent / Gent
+bruges|cities|BE|city|Bruges / Brugge
+leuven|cities|BE|city|Leuven
+liege|cities|BE|city|Liège
+flanders|regions|BE|region|Flanders / Vlaanderen
+wallonia|regions|BE|region|Wallonia
+fiets|topics|NL|topic|Cycling / fietsen in NL
+dutchfood|topics|NL|topic|Dutch food and cooking
+dutchlanguage|topics|NL|topic|Learning and using Dutch
+dutchmemes|topics|NL|topic|Dutch memes and humor
+dutchfootball|topics|NL|topic|Dutch football
+eredivisie|topics|NL|topic|Eredivisie football league
+ajax|topics|NL|topic|AFC Ajax football club
+psv|topics|NL|topic|PSV Eindhoven football club
+feyenoord|topics|NL|topic|Feyenoord Rotterdam football club
+politiek|topics|NL|topic|Dutch politics (Dutch language)
+dutchpolitics|topics|NL|topic|Dutch politics (English)
+expats|topics|NL|topic|Expats in Netherlands
+dutchhousing|topics|NL|topic|Dutch housing market
+investeren_nl|topics|NL|topic|Investing in Netherlands
+wegbeheerders|topics|NL|topic|Dutch roads and infrastructure
+dutchhistory|topics|NL|topic|History of the Netherlands
+thehague|cities|NL|city|The Hague English-language variant
